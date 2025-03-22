@@ -9,27 +9,12 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-  <a href="https://github.com/siddhesh-desai/SlideAI">
     <img src="images/SlideAI-logo.png" alt="Logo">
   </a>
     <br>
     <br>
 
   <h3 align="center"><b>SlideAI</b></h3>
-
-  <p align="center">
-    SlideAI is an automated PowerPoint generator that streamlines the process of creating engaging presentations. By leveraging artificial intelligence, SlideAI takes care of content creation, slide design, and formatting, saving valuable time and effort. Simply input your key points, and SlideAI intelligently generates visually appealing slides with appropriate layouts, graphics, and text. It understands the context and presents information in a concise and captivating manner. With SlideAI, professionals can focus on delivering impactful presentations while eliminating the hassle of manual slide creation.
-    <br />
-    <br>
-    <a href="https://github.com/siddhesh-desai/SlideAI"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/siddhesh-desai/SlideAI">View Demo</a>
-    ·
-    <a href="https://github.com/siddhesh-desai/SlideAI/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/siddhesh-desai/SlideAI/issues">Request Feature</a>
-  </p>
-</div>
 
 <!-- ABOUT THE PROJECT -->
 <br>
@@ -117,7 +102,6 @@ The project needs to be set up as an Appscript project, for that purpose you nee
 - [x] Formatting of the Presentation
 - [ ] Automatic Download of the Presntation
 
-See the [open issues](https://github.com/siddhesh-desai/SlideAI/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,11 +124,6 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 
-## 📧 Contact
-
-Siddhesh Desai - [@thesiddheshdesai](https://www.linkedin.com/in/thesiddheshdesai/) - siddheshdesai777@gmail.com
-
-Project Link: [https://github.com/siddhesh-desai/SlideAI](https://github.com/siddhesh-desai/SlideAI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,33 +134,5 @@ Project Link: [https://github.com/siddhesh-desai/SlideAI](https://github.com/sid
 <br>
 <img src="images/slideAI-sample.png" alt="Logo">
 
-## ✨ Contributors
 
-Thanks go to these wonderful people:
 
-- [Siddhesh Desai](https://github.com/siddhesh-desai/)
-- [Ashish Fargade](https://github.com/ashishfargade/)
-- [Pradyun Gayakwad](https://github.com/Pglol03/)
-- [Prathmesh Haridas](https://github.com/pjharidas/)
-- [Jayant Singh](https://github.com/jayantsingh-22)
-
-[contributors-shield]: https://img.shields.io/github/contributors/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[contributors-url]: https://github.com/siddhesh-desai/SlideAI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[forks-url]: https://github.com/siddhesh-desai/SlideAI/network/members
-[stars-shield]: https://img.shields.io/github/stars/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[stars-url]: https://github.com/siddhesh-desai/SlideAI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[issues-url]: https://github.com/siddhesh-desai/SlideAI/issues
-[license-shield]: https://img.shields.io/github/license/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[license-url]: https://github.com/siddhesh-desai/SlideAI/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/thesiddheshdesai
-[app-script]: https://img.shields.io/badge/AppScript-000000?style=for-the-badge&logo=javascript&logoColor=white
-[app-script-url]: https://developers.google.com/apps-script/
-[openai]: https://img.shields.io/badge/OpenAI-0769AD?style=for-the-badge&logo=OpenAI&logoColor=white
-[openai-url]: https://platform.openai.com/docs/introduction
-[bing]: https://img.shields.io/badge/BingAPI-20232A?style=for-the-badge&logo=microsoftbing&logoColor=61DAFB
-[bing-url]: https://www.microsoft.com/en-us/bing/apis
-[googleslides]: https://img.shields.io/badge/GoogleSlides-000000?style=for-the-badge&logo=google&logoColor=white
-[googleslides-url]: https://developers.google.com/slides/
